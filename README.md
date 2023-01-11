@@ -12,9 +12,9 @@ Step 2: Open a terminal and type ```git clone https://github.com/emilsharkov/LAN
 
 ## Usage
 
-Step 3: In your terminal, navigate to the LANConnect4 folder and type ```python3 start.py```
+Step 3: In your terminal, navigate to the LANConnect4 folder and type ```python start.py```
 
-Step 4: In another terminal, navigate to the LANConnect4 folder and type ```python3 start.py```
+Step 4: In another terminal, navigate to the LANConnect4 folder and type ```python start.py```
 
 Step 5: Follow the prompts and enjoy crushing your friends at Connect 4!
 
