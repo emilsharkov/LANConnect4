@@ -1,8 +1,12 @@
 # LANConnect4
 
-LANConnect4 is a Python command-line interface for playing the game Connect 4 over an internet LAN connection with a friend. Each running instance of this program acts as both a server for listening for data and a client for sending data to the other. Additionally, it utilizes dynamic programming to check if a player has won by aligning four of a kind in a row.
+## Demo
 
 ![](https://github.com/emilsharkov/LANConnect4/blob/main/LanConnect4Demo.gif)
+
+## Description
+
+LANConnect4 is a Python command-line interface for playing the game Connect 4 over an internet LAN connection with a friend. Each running instance of this program acts as both a server for listening for data and a client for sending data to the other. Additionally, it utilizes dynamic programming to check if a player has won by aligning four of a kind in a row.
 
 ## Requirements
 
